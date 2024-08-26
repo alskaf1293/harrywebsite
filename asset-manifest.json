@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/harrywebsite/static/css/main.6b77411a.css",
+    "main.js": "/harrywebsite/static/js/main.e55dc897.js",
+    "static/js/453.a50118da.chunk.js": "/harrywebsite/static/js/453.a50118da.chunk.js",
+    "index.html": "/harrywebsite/index.html",
+    "main.6b77411a.css.map": "/harrywebsite/static/css/main.6b77411a.css.map",
+    "main.e55dc897.js.map": "/harrywebsite/static/js/main.e55dc897.js.map",
+    "453.a50118da.chunk.js.map": "/harrywebsite/static/js/453.a50118da.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b77411a.css",
+    "static/js/main.e55dc897.js"
+  ]
+}
