@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/harrywebsite/static/css/main.2cc85717.css",
-    "main.js": "/harrywebsite/static/js/main.5e9851f7.js",
-    "static/js/453.a50118da.chunk.js": "/harrywebsite/static/js/453.a50118da.chunk.js",
-    "index.html": "/harrywebsite/index.html",
-    "main.2cc85717.css.map": "/harrywebsite/static/css/main.2cc85717.css.map",
-    "main.5e9851f7.js.map": "/harrywebsite/static/js/main.5e9851f7.js.map",
-    "453.a50118da.chunk.js.map": "/harrywebsite/static/js/453.a50118da.chunk.js.map"
+    "main.css": "/wrathfulpest13.com/static/css/main.2cc85717.css",
+    "main.js": "/wrathfulpest13.com/static/js/main.11ebe568.js",
+    "static/js/453.a50118da.chunk.js": "/wrathfulpest13.com/static/js/453.a50118da.chunk.js",
+    "index.html": "/wrathfulpest13.com/index.html",
+    "main.2cc85717.css.map": "/wrathfulpest13.com/static/css/main.2cc85717.css.map",
+    "main.11ebe568.js.map": "/wrathfulpest13.com/static/js/main.11ebe568.js.map",
+    "453.a50118da.chunk.js.map": "/wrathfulpest13.com/static/js/453.a50118da.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2cc85717.css",
-    "static/js/main.5e9851f7.js"
+    "static/js/main.11ebe568.js"
   ]
 }
